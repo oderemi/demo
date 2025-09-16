@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+}
+div{margin: 0px;
+    padding: 250px;
+    font-size: 100px;
+    color: red;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(16, 16, 41);
+}
+img {
+height: 500px;
+width: 500px;
+border: 1px solid black;
+border-radius: 50%;
+}
+.name {
+    margin-top: 150px;
+    font-size: 50px;
+}
